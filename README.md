@@ -9,16 +9,19 @@ Data Visualization: Created interactive dashboards to analyze sales trends, reve
 ## Data Source
 -- Database: MySQL
 -- Dataset: Sales transactions, customer data, product details, and other relevant sales metrics.
+
 ## Key Visualizations
 -- Sales Trends: Monthly, quarterly, and yearly sales performance.
 -- Top Products & Customers: Best-selling products and high-value customers.
 -- Geographical Insights: Sales distribution by region.
 -- Profitability Analysis: Revenue, cost, and profit margins.
+
 ## How to Use
 Open the Power BI report file (.pbix).
 Ensure the MySQL database connection is active.
 Refresh the data to load the latest sales records.
 Explore the interactive dashboards and filters to gain insights.
+
 ## Requirements
 Power BI Desktop (latest version recommended).
 MySQL Database with sales data.
